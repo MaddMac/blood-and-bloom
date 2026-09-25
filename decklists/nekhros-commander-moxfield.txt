@@ -1,0 +1,93 @@
+# Nekhros, the First Risen — Commander (Moxfield import)
+# Commander: Nekhros, the First Risen (custom — add manually as a custom card on Moxfield)
+# The five aspects are custom cards: Veyla, Death-Knight of Nekhros / Umbriss, Shade of Nekhros /
+# Malachar, Lich of Nekhros / Ghorvath, Amalgam of Nekhros / Vorthax, Caustic Haze of Nekhros.
+# Import the 94 real cards below via bulk import, then add the 6 customs by hand.
+1 Death Baron
+1 Lord of the Undead
+1 Cemetery Reaper
+1 Diregraf Captain
+1 Undead Warchief
+1 Zombie Master
+1 Lord of the Accursed
+1 Diregraf Colossus
+1 Gravecrawler
+1 Carrion Feeder
+1 Cryptbreaker
+1 Midnight Reaper
+1 Graveborn Muse
+1 Havengul Lich
+1 Geralf's Messenger
+1 Gray Merchant of Asphodel
+1 Sidisi, Undead Vizier
+1 Vengeful Dead
+1 Plague Belcher
+1 Shepherd of Rot
+1 Noxious Ghoul
+1 Anointed Procession
+1 Reflections of Littjara
+1 Wound Reflection
+1 Thought Reflection
+1 Endless Ranks of the Dead
+1 Army of the Damned
+1 Dreadhorde Invasion
+1 Rooftop Storm
+1 Bolas's Citadel
+1 Demonic Tutor
+1 Vampiric Tutor
+1 Imperial Seal
+1 Grim Tutor
+1 Diabolic Intent
+1 Enlightened Tutor
+1 Wishclaw Talisman
+1 Sol Ring
+1 Arcane Signet
+1 Fellwar Stone
+1 Chromatic Lantern
+1 Burgeoning
+1 Exploration
+1 Smothering Tithe
+1 Rhystic Study
+1 Phyrexian Arena
+1 Necropotence
+1 Skullclamp
+1 Kindred Discovery
+1 Distant Melody
+1 Pact of the Serpent
+1 Toxic Deluge
+1 Damn
+1 Cyclonic Rift
+1 Swords to Plowshares
+1 Deadly Rollick
+1 Fierce Guardianship
+1 Command Tower
+1 Exotic Orchard
+1 City of Brass
+1 Mana Confluence
+1 Reflecting Pool
+1 Cavern of Souls
+1 Urborg, Tomb of Yawgmoth
+1 Path of Ancestry
+1 Cabal Coffers
+1 Ancient Tomb
+1 Phyrexian Tower
+1 Volrath's Stronghold
+1 Unholy Grotto
+1 Polluted Delta
+1 Flooded Strand
+1 Bloodstained Mire
+1 Windswept Heath
+1 Wooded Foothills
+1 Hallowed Fountain
+1 Godless Shrine
+1 Watery Grave
+1 Blood Crypt
+1 Overgrown Tomb
+1 Zagoth Triome
+1 Indatha Triome
+1 Ketria Triome
+5 Swamp
+2 Island
+2 Plains
+1 Mountain
+1 Forest
